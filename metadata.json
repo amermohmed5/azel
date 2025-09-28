@@ -1,0 +1,5 @@
+{
+  "name": "Excel Data Searcher",
+  "description": "A simple web application to upload an Excel file and search for item names and their prices in Arabic.",
+  "requestFramePermissions": []
+}
